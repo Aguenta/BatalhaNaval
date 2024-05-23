@@ -1,2 +1,3 @@
 # BatalhaNaval
-Jogo Batalha Naval
+# ALL WORK WAS DONE BY ME
+# ANY DUPLICATION WILL INCUR PENALTIES
